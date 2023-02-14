@@ -114,6 +114,3 @@ public class Main {
 //slut på void main
     }
     }
-
-//Fixa att det inte blir gult om bokstaven har en rätt plats redan
-//Inte ett måste men fixa så att allt man printat printas ut igen så man slipper scrolla upp för att se
